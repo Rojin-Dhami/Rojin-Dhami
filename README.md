@@ -41,9 +41,9 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🎬 [Movie Recommender System](https://github.com/Rojin-Dhami/movie-recommender-system) | Built a content-based recommendation system using TMDB dataset & Streamlit. | Python, Pandas, Streamlit |
+| 🎬 [Movie Recommender System](https://github.com/Rojin-Dhami/Movie-Recommendation-_sys.git) | Built a content-based recommendation system using TMDB dataset & Streamlit. | Python, Pandas, Streamlit |
 | 🧠 [SMS_spam_classifier](https://github.com/Rojin-Dhami/SMS_spam_classifier.git) | Developed an ML-based SMS classifier to detect spam or ham messages using NLP techniques. | Scikit-learn, PandasPython, Scikit-learn, NLTK |
-| 📈 [Telecom Customer Churn Analysis](https://github.com/Rojin-Dhami/customer-churn-eda) | Performed EDA to analyze churn behavior and customer trends. | Pandas, Matplotlib |
+| 📈 [Telecom Customer Churn Analysis](https://github.com/Rojin-Dhami/Customer_churn_prediction_model.git) | Performed EDA to analyze churn behavior and customer trends. | Pandas, Matplotlib |
 
 > 🧩 _More projects coming soon — I love experimenting and building new ideas!_
 

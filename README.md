@@ -61,7 +61,7 @@
 ### 🌐 Let's Connect!
 
 <p align="center">
-  <a href="www.linkedin.com/in/rojin-dhami-575730347" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/rojin-dhami-575730347" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:rojindhami@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Rojin-Dhami"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"></a>
 </p>

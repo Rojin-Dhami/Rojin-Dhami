@@ -54,6 +54,7 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rojin-Dhami&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rojin-Dhami&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rojin-Dhami&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ---

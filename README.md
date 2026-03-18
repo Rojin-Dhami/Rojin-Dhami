@@ -1,41 +1,47 @@
 <h1 align="center">Hi 👋, I'm Rojin Dhami</h1>
-<h3 align="center">💻 Computer Engineering Student | 🚀 Data Science & Machine Learning Enthusiast | 💡 Tech Explorer</h3>
+<h3 align="center">💻 Computer Engineering Student | 🚀 Data Science & ML Enthusiast | 🌐 Full-Stack Web Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me
-🎓 I'm a **Computer Engineering student** passionate about exploring the world of **Data Science, Machine Learning, and Artificial Intelligence**.  
-🧠 I enjoy solving real-world problems through code, data, and creative thinking.  
-🌱 Currently learning **Deep Learning** and improving my skills in **AI model building**.  
-💬 Ask me about anything related to **Python, ML, or Data Analysis** — I’m always happy to share & learn! 
-⚡ Fun fact: I believe data tells stories — and I love uncovering them! 📊  
+🎓 I'm a **Computer Engineering student** driven by a deep passion for **Data Science, Machine Learning, and Artificial Intelligence**. 
+🧠 My core focus is on analyzing complex data, building predictive ML models, and uncovering the hidden stories within datasets.
+🌐 I pair my analytical skills with strong **Web Development** experience (**React, Django, DRF**), enabling me to build end-to-end applications and deploy my AI models into interactive, user-friendly platforms.
+🌱 Currently diving deeper into **Deep Learning** and building full-stack AI web applications.
+💬 Ask me about **Python, Machine Learning, Data Analysis, or integrating AI into web apps!**
+
+⚡ Fun fact: I believe data tells stories, and great code provides the perfect stage to share them! 📊 
 
 ---
-
 
 ### 🧠 Tech Stack
 
 #### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-#### 📊 Data Science / ML Tools
+#### 📊 Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+#### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 #### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
----
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🚀 Featured Projects
 
@@ -45,7 +51,7 @@
 | 🧠 [SMS_spam_classifier](https://github.com/Rojin-Dhami/SMS_spam_classifier.git) | Developed an ML-based SMS classifier to detect spam or ham messages using NLP techniques. | Scikit-learn, PandasPython, Scikit-learn, NLTK |
 | 📈 [Telecom Customer Churn Analysis](https://github.com/Rojin-Dhami/Customer_churn_prediction_model.git) | Performed EDA to analyze churn behavior and customer trends. | Pandas, Matplotlib |
 
-> 🧩 _More projects coming soon — I love experimenting and building new ideas!_
+> 🧩 I love experimenting and building new ideas!_
 
 ---
 

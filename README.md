@@ -66,7 +66,7 @@
   <br><br>
 
   <!-- Top Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rojin-Dhami&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rojin-Dhami&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
